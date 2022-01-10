@@ -1,1 +1,1 @@
-# it is a university student code!
+# university student coding!
