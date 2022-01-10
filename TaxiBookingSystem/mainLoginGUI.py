@@ -11,8 +11,6 @@ from tkinter import ttk
 import re
 from adminGUI import Admin
 from customerGUI import Customer
-from types import BuiltinFunctionType
-
 from driverGUI import Driver
 
 # ================================:CLASS:=======MAIN====LOGIN=====PAGE=====
