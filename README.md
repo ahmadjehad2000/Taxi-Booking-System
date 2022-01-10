@@ -1,1 +1,1 @@
-# university student codes!
+# a university student code!
