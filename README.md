@@ -1,1 +1,1 @@
-# a university student code!
+# Project written in python using Tkinter and SQLite DB. 
